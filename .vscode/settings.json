@@ -1,0 +1,5 @@
+{
+    "editor.smartSelect.selectLeadingAndTrailingWhitespace": false,
+    "editor.smartSelect.selectSubwords": false,
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "never"
+}
